@@ -1,7 +1,6 @@
 # Healthcare Analysis (interactive Dashboard creation using MS Excel/Power BI/Tableau)
 This project analyses healthcare data in Excel, covering patients, doctors, visits, treatments, and lab results. It delivers dashboards and KPIs on treatment success, costs, patient trends, and doctor performance. Insights help identify high-risk patients, improve care quality, and enhance hospital efficiency.
 
----
 
 ## Project Objective  
 - Analyze healthcare data covering **patients, doctors, visits, treatments, diagnoses, and lab results**.  
@@ -9,12 +8,10 @@ This project analyses healthcare data in Excel, covering patients, doctors, visi
 - Build **interactive dashboards** highlighting KPIs such as treatment outcomes, visit trends, costs, and doctor performance.  
 - Provide **insights for improving patient care, resource allocation, and operational efficiency**.
 
----
 
 ## Dataset
-[Dataset](https://github.com/vishwagangaraddi/Healthcare-Analytics/blob/main/Dataset_Healthcare_Patient_V3.xlsx)
+**[Dataset](https://github.com/vishwagangaraddi/Healthcare-Analytics/blob/main/Dataset_Healthcare_Patient_V3.xlsx)**
 
----
 
 ## KPIs & Charts  
 - **Total Patients**  
@@ -38,7 +35,6 @@ This project analyses healthcare data in Excel, covering patients, doctors, visi
 - **Dashboard Interaction Power BI 2 [View Dashboard](https://github.com/vishwagangaraddi/Healthcare-Analytics/blob/main/Power%20Bi-Dashboard-2.png)**
 - **Dashboard Interaction Tableau [view Dashboard](https://github.com/vishwagangaraddi/Healthcare-Analytics/blob/main/Tableau-Dashboard.png)**
 
----
 
 ## Process  
 
@@ -60,27 +56,21 @@ This project analyses healthcare data in Excel, covering patients, doctors, visi
 - **Power BI Dashboards** – advanced analytics with interactive reports.  
 - **Tableau Dashboards** – rich visual insights and dynamic storytelling.
 
----
 
 ## Dashboards  
 
-- **Excel Dashboard**
-  
-- **![Excel Dashboard](https://github.com/vishwagangaraddi/Healthcare-Analytics/blob/main/Excel-Dashboard.png)**
+- **Excel Dashboard** 
+**![Excel Dashboard](https://github.com/vishwagangaraddi/Healthcare-Analytics/blob/main/Excel-Dashboard.png)**
 
 - **Power BI Dashboard 1**
-  
-- **![Power BI Dashboard 1](https://github.com/vishwagangaraddi/Healthcare-Analytics/blob/main/Power%20Bi-Dashboard-1.png)**
+**![Power BI Dashboard 1](https://github.com/vishwagangaraddi/Healthcare-Analytics/blob/main/Power%20Bi-Dashboard-1.png)**
 
 - **Power BI Dashboard 2**
-  
-- **![Power BI Dashboard 2](https://github.com/vishwagangaraddi/Healthcare-Analytics/blob/main/Power%20Bi-Dashboard-2.png)**
+**![Power BI Dashboard 2](https://github.com/vishwagangaraddi/Healthcare-Analytics/blob/main/Power%20Bi-Dashboard-2.png)**
 
 - **Tableau Dashboard**
-  
-- **![Tableau Dashboard](https://github.com/vishwagangaraddi/Healthcare-Analytics/blob/main/Tableau-Dashboard.png)**
+**![Tableau Dashboard](https://github.com/vishwagangaraddi/Healthcare-Analytics/blob/main/Tableau-Dashboard.png)**
 
----
 
 ## Insights  
 
@@ -90,7 +80,6 @@ This project analyses healthcare data in Excel, covering patients, doctors, visi
 - **Cost Analysis**: Average cost per treatment outcome revealed cost-effectiveness.  
 - **Patient Trends**: Seasonal peaks in visits (Oct & Dec) due to check-ups and vaccinations.  
 
----
 
 ## Tools & Technologies  
 - **Excel** – Pivot tables, KPI tracking  
@@ -98,10 +87,10 @@ This project analyses healthcare data in Excel, covering patients, doctors, visi
 - **Power BI** – Advanced analytics & dashboarding  
 - **Tableau** – Interactive visualization
 
----
 
 ## SQL Queries
-[SQL Queries](https://github.com/vishwagangaraddi/Healthcare-Analytics/blob/main/heathcare_project_queries.sql)
+**[SQL Queries](https://github.com/vishwagangaraddi/Healthcare-Analytics/blob/main/heathcare_project_queries.sql)**
+
 
 ## Final Conclusion
 This healthcare analytics project shows how Excel dashboards turn hospital data into actionable insights. It enables administrators to make better decisions, improves patient care by identifying high-risk individuals, optimizes resources through doctor and cost tracking, and provides a scalable framework for tools like Power BI or Tableau.
