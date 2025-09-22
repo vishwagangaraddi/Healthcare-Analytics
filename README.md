@@ -38,20 +38,20 @@ This project analyses healthcare data in Excel, covering patients, doctors, visi
 
 ## Process  
 
-### 🔹 Data Collection & Preparation  
+### Data Collection & Preparation  
 - Gathered from visits, patients, doctors, treatments, and lab results.  
 - Cleaned and standardized fields (dates, diagnosis names, treatment categories, patient demographics).  
 
-### 🔹 Data Modeling  
+### Data Modeling  
 - Built a **star schema** for analysis.  
 - Fact tables: **Visits, Treatments**  
 - Dimension tables: **Patients, Doctors, Diagnosis**  
 
-### 🔹 KPI & Dashboard Development  
+### KPI & Dashboard Development  
 - Designed metrics for **treatment success rate, average treatment cost, doctor ranking, patient distribution**.  
 - Built dashboards with **filters, drilldowns, and cross-tool comparisons**.  
 
-### 🔹 Analysis  
+### Analysis  
 - **Excel Pivot Tables & Charts** – initial exploration and KPI tracking.  
 - **Power BI Dashboards** – advanced analytics with interactive reports.  
 - **Tableau Dashboards** – rich visual insights and dynamic storytelling.
