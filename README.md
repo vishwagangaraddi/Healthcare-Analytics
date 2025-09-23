@@ -40,7 +40,8 @@ This project analyzes healthcare data in Excel, covering patients, doctors, visi
 
 ### Data Collection & Preparation  
 - Gathered from visits, patients, doctors, treatments, and lab results.  
-- Cleaned and standardized fields (dates, diagnosis names, treatment categories, patient demographics).  
+- Cleaned and standardized fields (dates, diagnosis names, treatment categories, patient demographics).
+- Loaded the dataset into MySQL for preprocessing and structured querying. 
 
 ### Data Modeling  
 - Built a **star schema** for analysis.  
